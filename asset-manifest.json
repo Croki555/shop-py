@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shop-py/static/css/main.df00acaf.css",
+    "main.js": "/shop-py/static/js/main.6d4a6406.js",
+    "index.html": "/shop-py/index.html",
+    "main.df00acaf.css.map": "/shop-py/static/css/main.df00acaf.css.map",
+    "main.6d4a6406.js.map": "/shop-py/static/js/main.6d4a6406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df00acaf.css",
+    "static/js/main.6d4a6406.js"
+  ]
+}
