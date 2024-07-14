@@ -60,7 +60,7 @@ function App() {
         <div className="payment__order">
           <div className="payment__info info">
             <p className="info__description">
-              <span className="info__description-title">Магазин: <a href="!#">SHOP-PY</a> </span>
+              <span className="info__description-title">Магазин: <a href="https://Croki555.github.io/shop-py">SHOP-PY</a> </span>
             </p>
             <p className="info__description">
               <span className="info__description-title">Описание: Оплата заказа #234562</span>
