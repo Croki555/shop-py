@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shop-py/static/css/main.73433d2c.css",
-    "main.js": "/shop-py/static/js/main.8bfb5469.js",
+    "main.css": "/shop-py/static/css/main.093cdc9f.css",
+    "main.js": "/shop-py/static/js/main.65afb3c2.js",
     "index.html": "/shop-py/index.html",
-    "main.73433d2c.css.map": "/shop-py/static/css/main.73433d2c.css.map",
-    "main.8bfb5469.js.map": "/shop-py/static/js/main.8bfb5469.js.map"
+    "main.093cdc9f.css.map": "/shop-py/static/css/main.093cdc9f.css.map",
+    "main.65afb3c2.js.map": "/shop-py/static/js/main.65afb3c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.73433d2c.css",
-    "static/js/main.8bfb5469.js"
+    "static/css/main.093cdc9f.css",
+    "static/js/main.65afb3c2.js"
   ]
 }
